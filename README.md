@@ -1,3 +1,3 @@
 🐍 Python Assignments
 
-A collection of Python programming assignments covering fundamental programming concepts and problem-solving techniques. This repository includes beginner-friendly programs on loops, conditional statements, functions, number operations, patterns, strings, and basic algorithms. Each solution is written with clean, readable code to strengthen Python programming skills and logical thinking. Ideal for students, coding practice, and interview preparatio
+A collection of Python programming assignments covering fundamental programming concepts and problem-solving techniques. This repository includes beginner-friendly programs on loops, conditional statements, functions, number operations, patterns, strings, and basic algorithms. Each solution is written with clean, readable code to strengthen Python programming skills and logical thinking. Ideal for students, coding practice, and interview preparatio.
